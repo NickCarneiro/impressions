@@ -1,0 +1,13 @@
+.DS_Store
+*.*~
+*.pyc
+*.db
+*.sqlite
+local.py
+proj/static/
+proj/profile_pictures/cache/*
+proj/profile_pictures/photos/*
+.idea
+atlassian-ide-plugin.xml
+var/log/*
+*.iml
